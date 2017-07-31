@@ -14,3 +14,4 @@
 }
 
 if(result.PaymentResponse.ResponseCode == "0" || result.PaymentResponse.PaymentStatus =="APPROVED" || result.PaymentResponse.ResponseCode == "00" )
+https://www.ndwministries.net/leadafricasummit/Logo.jpg
